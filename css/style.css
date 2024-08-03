@@ -297,16 +297,16 @@ img {
   z-index: var(--z-back);
 }
 .skills__cpp {
-  width: 75%;
-}
-.skills__js {
   width: 80%;
 }
+.skills__js {
+  width: 85%;
+}
 .skills__react {
-  width: 75%;
+  width: 85%;
 }
 .skills__dsa {
-  width: 75%;
+  width: 60%;
 }
 .skills__img {
   border-radius: 0.5rem;
