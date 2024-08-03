@@ -305,8 +305,14 @@ img {
 .skills__react {
   width: 85%;
 }
+.skills__nodejs{
+  width: 65%;
+}
 .skills__dsa {
   width: 60%;
+}
+.skills__mysql{
+  width: 70%;
 }
 .skills__img {
   border-radius: 0.5rem;
